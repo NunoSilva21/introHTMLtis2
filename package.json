@@ -1,0 +1,24 @@
+{
+  "name": "introhtmltis2",
+  "version": "1.0.0",
+  "description": "Exemplo de HTML",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NunoSilva21/introHTMLtis2.git"
+  },
+  "author": "Nuno Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NunoSilva21/introHTMLtis2/issues"
+  },
+  "homepage": "https://github.com/NunoSilva21/introHTMLtis2#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.14",
+    "path": "^0.12.7"
+  }
+}
