@@ -3,9 +3,30 @@ body {
 }
 
 .p1 {
-    background-color: blueviolet;
+    background-color: coral;
+    text-align:justify;
+    padding: 20px;
 }
 
-.p2 {
-    background-color: blue;
+.p1:hover{
+    background-color: darkgray;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    height: auto;
+    border-style: groove;
+    border-color: blue;
+    border-radius: 10px;
+}
+
+.legendas {
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
 }
